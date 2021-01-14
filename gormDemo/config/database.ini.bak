@@ -1,0 +1,9 @@
+[mysql]
+username = root
+password = d5dDkb4P4hWCSLX6
+port     = 3307
+address  = 123.56.181.166
+database = jcc_erp
+charset  = utf8
+[test]
+key =
